@@ -3,7 +3,7 @@
 - Homepage: [homepage](jiangjingyan.com)
 - Email: jiangjingyan@sztu.edu.cn
 - Office: 1616, C1 Building, SZTU
-- Office time: Tuesday 14：30-5：00
+- Office Hour: Tuesday 14：30-5：00
 - 希望你: 自驱力，良好的编程水平，良好的英文读水平。
 <!---
 SZTU-Courses/SZTU-Courses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
